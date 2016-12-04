@@ -1686,14 +1686,14 @@ textarea {
 
 	.site-contact h3 {
 		font-size: 1.8rem;
-		text-align: left;
+		text-align: center;
 	}
 
 	.site-contact ul {
 		border: 0;
 		margin: 0;
 		padding: 0;
-		text-align: left;
+		text-align: center;
 	}
 
 	.site-contact li:last-of-type {
@@ -1703,7 +1703,6 @@ textarea {
 	.contact-column {
 		/*margin-right: 5.263157894736842%;*/
 		width: 33.33333%;
-		text-align: center;
 	}
 
 	.contact-column:nth-of-type(3) {
