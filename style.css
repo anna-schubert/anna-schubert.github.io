@@ -1701,8 +1701,9 @@ textarea {
 	}
 
 	.contact-column {
-		margin-right: 5.263157894736842%;
-		width: 29.82456140350877%;
+		/*margin-right: 5.263157894736842%;*/
+		width: 33.33333%;
+		text-align: center;
 	}
 
 	.contact-column:nth-of-type(3) {
