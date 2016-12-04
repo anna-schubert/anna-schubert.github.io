@@ -1494,6 +1494,14 @@ textarea {
 	.skills-column:nth-of-type(4) {
 		margin: 0;
 	}
+	
+	.skills-column:nth-of-type(8) {
+		margin: 0;
+	}
+	
+	.skills-column:nth-of-type(12) {
+		margin: 0;
+	}
 
 	.parallax {
 	  background-image: url(img/resume/resume-background.gif);
