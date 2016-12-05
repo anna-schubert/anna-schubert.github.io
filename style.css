@@ -107,7 +107,12 @@
 }
 
 .entypo-graduation-cap:before {
-	content: "\1f393"}
+	content: "\1f393"
+}
+
+.entypo-flight:before {
+	content: "\2708"
+}
 
 .entypo-left-open-big:before {
 	content: "\e765";
