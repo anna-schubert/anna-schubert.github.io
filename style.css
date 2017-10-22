@@ -1284,7 +1284,7 @@ textarea {
 	}
 
 	.site-header {
-		background-image: url(img/header/header-background_medium.jpg);
+		background-image: url(img/header/header-background_medium.JPG);
 		background-size: cover;
 		max-height: 800px;
 		position: relative;
@@ -1630,7 +1630,7 @@ textarea {
 @media screen and (min-width: 1170px) {
 
 	.site-header {
-		background-image: url(img/header/header-background_large.jpg);
+		background-image: url(img/header/header-background_large.JPG);
 		max-height: inherit;
 	}
 
